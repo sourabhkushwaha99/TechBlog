@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+.primary-background{
+	background : #030609;
+}
+
+.black-color{
+	background : #030609;
+}
+
+.blue-color{
+	background : #265c6f;
+}
+
+.green-dark-color{
+	background : #3c8778;
+}
+
+.green-light-color{
+    color : #6bdd89;
+}
+
+.brown-color{
+	background : #b68456;
+}
+
+.green-mid-color{
+	background : #53b182;
+}
+
