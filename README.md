@@ -146,8 +146,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please contact:
-- Sourabh Kushwaha: [sourabh@example.com](mailto:sourabh@example.com)
+- Sourabh Kushwaha: [sourabhkush99@gmail.com](mailto:sourabhkush99@gmail.com)
 
 ---
 
-Feel free to customize this README file further as per your specific requirements.
+
